@@ -30,5 +30,6 @@ Hi! i'am Alyx, Full-Stack Developer
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)  
 
 ## 🤝 Let's Connect!  
-📩 Email: sthuldsczoj@icloud.com(mailto:sthuldsczoj@icloud.com) 
-✈️ Telegram: @stockholmeu[https://t.me/stockholmeu]
+📩 Email: [sthuldsczoj@icloud.com](mailto:sthuldsczoj@icloud.com)  
+✈️ Telegram: [@stockholmeu](https://t.me/stockholmeu)
+
