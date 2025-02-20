@@ -1,16 +1,34 @@
-## Hi there 👋
+Hi! i'am Alyx, Full-Stack Developer  
 
-<!--
-**stockholmeu/stockholmeu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 About Me  
+💻 **Full-Stack Developer** | 🐍 Python Enthusiast | ⚡ Golang Backend Engineer  
 
-Here are some ideas to get you started:
+- 🔥 18 y.o. developer with a passion for clean and efficient code  
+- 🛠️ Specializing in **Python, Golang, and Backend Development**  
+- 🗄️ Experience with **MongoDB, SQLite, REST APIs, and Web Scraping**  
+- 🌍 Open to collaboration on interesting projects  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏆 Featured Projects  
+###1️⃣ **FastAPI Boilerplate** – Scalable backend starter kit  
+🚀 A production-ready FastAPI template with authentication, database setup, and testing.  
+🔗 [GitHub Repo](https://github.com/your-github-username/fastapi-boilerplate)  
+
+### 2️⃣ **GoTaskManager** – Minimalist task manager in Golang  
+📌 A simple task manager API built with **Go, SQLite, and Fiber**.  
+🔗 [GitHub Repo](https://github.com/your-github-username/gotaskmanager)  
+
+### 3️⃣ **WebScraper Pro** – Python web scraping framework  
+🕷️ Customizable web scraper with **BeautifulSoup, Selenium, and AsyncIO** support.  
+🔗 [GitHub Repo](https://github.com/your-github-username/webscraper-pro)  
+
+## ⚙️ Tech Stack  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
+![Golang](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)  
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)  
+
+## 🤝 Let's Connect!  
+📩 Email: sthuldsczoj@icloud.com(mailto:sthuldsczoj@icloud.com) 
+✈️ Telegram: @stockholmeu[https://t.me/stockholmeu]
