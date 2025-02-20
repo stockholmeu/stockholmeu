@@ -21,6 +21,15 @@ Hi! i'am Alyx, Full-Stack Developer
 🕷️ Customizable web scraper with **BeautifulSoup, Selenium, and AsyncIO** support.  
 🔗 [GitHub Repo](https://github.com/your-github-username/webscraper-pro)  
 
+###🔥 4️⃣ **AI & Machine Learning Experience**
+I have experience working with Artificial Intelligence and Machine Learning, utilizing Python and modern frameworks.
+
+🤖 Developing neural networks with TensorFlow, PyTorch
+📊 Data processing and analysis (NumPy, Pandas, Matplotlib)
+🏆 Building ML models for prediction, classification, and data generation
+🌐 Integrating AI into web applications and backend (FastAPI, Flask)
+🔍 Web Scraping + NLP (Selenium, BeautifulSoup, spaCy, OpenAI API)
+
 ## ⚙️ Tech Stack  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
 ![Golang](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)  
